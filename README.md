@@ -1,6 +1,7 @@
 # DapperCore
 
 ### Getting started
+ - Be sure that .NET core 1.0.0 is installed on your machine
  - Install MySQL locally or use the connection string for a remote server
  - Create AdventureWorks by running the sql file `MySQL_Adventureworks.sql` in the root 
  - Update the connection string with creds as needed
