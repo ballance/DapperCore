@@ -306,9 +306,6 @@
           }
         }
       },
-      "MySql.Data/6.9.8": {
-        "type": "package"
-      },
       "MySqlConnector/0.1.0-alpha10": {
         "type": "package",
         "dependencies": {
@@ -2667,23 +2664,6 @@
         "runtimes/win/lib/net46/Microsoft.Win32.Registry.dll",
         "runtimes/win/lib/netcore50/_._",
         "runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll"
-      ]
-    },
-    "MySql.Data/6.9.8": {
-      "sha512": "ZSkMKsB1J9Cb/nO3+GlfX/YttibU23y5ZQtn/xzzl3xfPK512wP1jNjiVG4AFvmeJrf02qHNc/GfXJGYYHN8Pg==",
-      "type": "package",
-      "path": "MySql.Data/6.9.8",
-      "files": [
-        "CHANGES",
-        "MySql.Data.6.9.8.nupkg.sha512",
-        "MySql.Data.nuspec",
-        "Readme.txt",
-        "content/app.config.transform",
-        "content/web.config.transform",
-        "lib/net20-cf/MySql.Data.CF.dll",
-        "lib/net20/MySql.Data.dll",
-        "lib/net40/MySql.Data.dll",
-        "lib/net45/MySql.Data.dll"
       ]
     },
     "MySqlConnector/0.1.0-alpha10": {
@@ -7233,7 +7213,6 @@
   "projectFileDependencyGroups": {
     "": [
       "Dapper >= 1.50.2",
-      "MySql.Data >= 6.9.8",
       "MySqlConnector >= 0.1.0-alpha10",
       "Newtonsoft.Json >= 9.0.1"
     ],
