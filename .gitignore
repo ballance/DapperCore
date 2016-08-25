@@ -234,4 +234,5 @@ node_modules
 
 .DS_Store
 
+project.lock.json
 
